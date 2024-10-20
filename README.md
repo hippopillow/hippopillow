@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SilenceV3
+- 👋 Hi, I’m Fear-Itself
 - 👀 I’m interested in Java
 - ⛏️ I love Minecraft
 - 🌱 I’m currently learning Java, Python and HTML
