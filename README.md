@@ -8,8 +8,6 @@
 
   <img src="https://img.shields.io/badge/Knows-Python-blue?logo=python&logoColor=warning&color=yellow" alt="css">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thepizzaedition&theme=dark&background=000000)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepizzaedition&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fear-itself&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </div>
