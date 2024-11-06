@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=250lines=Best+Java+Developer;Intellij+Idea+Wizard;Pro+Minecraft+Player)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Java+Dev;Penetration+Tester;Learning+HTML+%2B+Python)](https://git.io/typing-svg)
 
   <img src="https://img.shields.io/badge/Knows-Java-blue?logo=openmediavault&logoColor=warning&color=blue" alt="css">
   
