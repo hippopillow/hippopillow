@@ -4,9 +4,9 @@
 
   <img src="https://img.shields.io/badge/Knows-Java-blue?logo=CSS&logoColor=warning&color=blue" alt="css">
   
-  <img src="https://img.shields.io/badge/Knows-Linux-blue?logo=html5&logoColor=warning&color=orange" alt="html">
+  <img src="https://img.shields.io/badge/Knows-Linux-blue?logo=html5&logoColor=warning&color=orange" alt="linux">
 
-  <img src="https://img.shields.io/badge/Knows-Python-blue?logo=html5&logoColor=warning&color=yellow" alt="html">
+  <img src="https://img.shields.io/badge/Knows-Python-blue?logo=html5&logoColor=warning&color=yellow" alt="python">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thepizzaedition&theme=dark&background=000000)](https://git.io/streak-stats)
 
