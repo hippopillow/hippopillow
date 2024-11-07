@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/Knows-Linux-blue?logo=linux&logoColor=orange&color=orange" alt="css">
 
   <img src="https://img.shields.io/badge/Knows-Kali-blue?logo=kalilinux&logoColor=yellow&color=yellow" alt="css">
+
+  <img src="https://img.shields.io/badge/Knows-Java-blue?logo=openmediavault&logoColor=blueg&color=red" alt="css">
+ 
+  <img src="https://img.shields.io/badge/Knows-Docker-blue?logo=docker&logoColor=blueg&color=blue" alt="css">
+
+  
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fear-itself&theme=dark&background=000000)](https://git.io/streak-stats)
 
