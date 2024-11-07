@@ -10,7 +10,7 @@
 
   <img src="https://img.shields.io/badge/Knows-Docker-blue?logo=docker&logoColor=blueg&color=blue" alt="css">
 
-  <img src="https://img.shields.io/badge/Knows-Python-red?logo=python&logoColor=blueg&color=red" alt="css">
+  <img src="https://img.shields.io/badge/Knows-Python-red?logo=python&logoColor=blueg&color=purple" alt="css">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fear-itself&theme=dark&background=000000)](https://git.io/streak-stats)
 
