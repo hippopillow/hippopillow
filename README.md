@@ -1,8 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Web+Developer;Freelancer;Interested+in+Linux)](https://git.io/typing-svg)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Fear-Itself)](https://git.io/streak-stats)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Developer;Minecrafter;Linuxer)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
