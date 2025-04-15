@@ -7,7 +7,7 @@ Hey! I'm hippopillow — a developer who loves diving into both creative and tec
 
 ### 🚀 Currently
 
-- 🔧 Working on: **Ancel's Performance Batch**
+- 🔧 Working on: **Procrastinating**
 - 📚 Learning: **Bash**
 - 🧠 Exploring: Minecraft optimization, Windows scripting, and system debloating
 
