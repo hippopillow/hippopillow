@@ -1,18 +1,16 @@
 # 🛠️ Hippopillow
 
-**`Digital Tinkerer (Coder / Gamer / Builder)`**
+**`Digital Tinkerer (Devloper / Gamer / Tweaker)`**
 
-Hey! I'm hippopillow — a developer who loves diving into both creative and technical rabbit holes. Whether it's building performance tools, exploring new frameworks like Electron, or tweaking systems to the limit, I’m always working on something cool and a little unconventional. You’ll usually find me scripting, gaming (especially Minecraft), or automating stuff that probably doesn’t need automating. 😉
-
-
-Whether I'm modding Minecraft, writing batch scripts, or learning something new like Electron — I'm all about turning curiosity into creation.
+Hey! I'm hippopillow — a developer who loves diving into both creative and technical rabbit holes. Whether it's building performance tools, exploring new frameworks like Electron, or tweaking systems to the limit, I’m always working on something cool and a little unconventional. You’ll usually find me scripting, or gaming (especially Minecraft or Fortnite).
 
 
 ### 🚀 Currently
 
 - 🔧 Working on: **Ancel's Performance Batch**
-- 📚 Learning: **Electron**
+- 📚 Learning: **Bash**
 - 🧠 Exploring: Minecraft optimization, Windows scripting, and system debloating
+
 ---
 
 ### 🧰 Tech I Use
