@@ -2,7 +2,7 @@
 
 **`Digital Tinkerer (Devloper / Gamer / Tweaker)`**
 
-Hey! I'm hippopillow — a developer who loves diving into both creative and technical rabbit holes. Whether it's building performance tools, exploring new frameworks like Electron, or tweaking systems to the limit, I’m always working on something cool and a little unconventional. You’ll usually find me scripting, or gaming (especially Minecraft or Fortnite).
+Hey! I'm hippopillow — a developer who loves diving into both creative and technical rabbit holes. Whether it's building performance tools, exploring new frameworks, or tweaking systems, I’m always working on something cool and a little unconventional. You’ll usually find me scripting, or gaming (especially Minecraft or Fortnite).
 
 
 ### 🚀 Currently
